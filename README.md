@@ -1,6 +1,6 @@
 # Sinatra Activerecord Setup
 
-
+#sweet
 ## Objectives
 
 1. Setup a database in a Sinatra application.
